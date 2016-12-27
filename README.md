@@ -1,11 +1,11 @@
 # MD-final
 
 # usage 
-python run.py <the new word> > log/<log file>
+python run.py "the new word" > log/<log file>
 ex:
 python run.py council > log/council.log
 
-The default corpus name would be "corpus_"+<the new word> ex:"corpus_council"
+The default corpus name would be "corpus_"+ "the new word" ex:"corpus_council"
 
 # output
 
