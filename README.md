@@ -15,3 +15,16 @@ including:
 1. #word tokens
 2. word2id mapping
 3. word embedding vectors
+
+# dataset
+large(600MB) Europarl v7: http://www.statmt.org/wmt15/translation-task.html
+
+split by some selective 'new' words by voc.txt to:
+* corpus_council
+* corpus_commission
+* corpus_parliament
+* corpus_president
+...
+
+and exclusive all the new words:
+* corpus_exclusive
