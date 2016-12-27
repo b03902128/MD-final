@@ -2,6 +2,7 @@
 
 # usage 
 python run.py "the new word" > log/"log file"
+
 ex:
 python run.py council > log/council.log
 
