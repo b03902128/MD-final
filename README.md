@@ -16,6 +16,8 @@ including:
 2. word2id mapping
 3. word embedding vectors
 
+see the example of council.log
+
 # dataset
 large(600MB) Europarl v7: http://www.statmt.org/wmt15/translation-task.html
 
