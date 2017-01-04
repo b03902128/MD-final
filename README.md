@@ -15,6 +15,7 @@ including:
 1. #word tokens
 2. word2id mapping
 3. word embedding vectors
+4. download word vectors of full Europarl v7 here: https://drive.google.com/open?id=0B5IxAjH6-LZ9NFByNVJRdllyOGs
 
 see the example of council.log
 
