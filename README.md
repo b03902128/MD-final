@@ -32,3 +32,5 @@ split by some selective 'new' words by voc.txt to:
 
 and exclusive all the new words:
 * corpus_exclusive
+
+Original large embedding(Europarl v7) is also provided. 
