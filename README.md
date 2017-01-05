@@ -12,8 +12,11 @@ The default corpus name would be "corpus_"+ "the new word" ex:"corpus_council"
 
 including:
 1. word2id mapping
+
 2. word embedding vectors
+
 3. coocurrence matrix
+
 download : https://drive.google.com/open?id=0B5IxAjH6-LZ9QkgzOFdMSEY0bVk
 
 # dataset
