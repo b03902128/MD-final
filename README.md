@@ -11,6 +11,7 @@ The default corpus name would be "corpus_"+ "the new word" ex:"corpus_council"
 # output
 
 including:
+
 1. word2id mapping
 
 2. word embedding vectors
